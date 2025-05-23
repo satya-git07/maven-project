@@ -74,15 +74,4 @@
   </build>
 </project>
 
-<distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>a0t3hnpdy4oaw-artifactory-primary-0-releases</name>
-        <url>https://trialryap2x.jfrog.io/artifactory/my-local-repo</url>
-    </repository>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>a0t3hnpdy4oaw-artifactory-primary-0-snapshots</name>
-        <url>https://trialryap2x.jfrog.io/artifactory/my-local-repo</url>
-    </snapshotRepository>
-</distributionManagement>
+
